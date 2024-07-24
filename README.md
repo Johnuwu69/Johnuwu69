@@ -4,7 +4,7 @@
 I'm John Joel a computer engineer
 
 
-## Tecnologies
+## technologies 💾
 
 
 
